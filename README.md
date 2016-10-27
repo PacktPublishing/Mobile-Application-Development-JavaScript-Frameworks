@@ -1,5 +1,5 @@
-# Mobile Application Development: Using JavaScript Descendent Technologies
-Code repository for Mobile Application Development: Using JavaScript Descendent Technologies published by Packt.
+# Mobile Application Development: JavaScript Frameworks
+Code repository for Mobile Application Development: JavaScript Frameworks published by Packt.
 
 
 ##What you will learn
